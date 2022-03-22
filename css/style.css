@@ -465,6 +465,11 @@ footer{
     }
 }
 
+/* contact */
+.contact{
+    background-color: var(--snow);
+}
+
 @media screen and (min-width: 992px){
     /* banner */
     .container{
