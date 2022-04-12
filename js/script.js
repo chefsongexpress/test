@@ -66,5 +66,5 @@ closePopup.addEventListener("click", () => {
 window.addEventListener("load", () => {
   setTimeout(() => {
     popup.classList.add("show");
-  }, 5000);
+  },100);
 });
