@@ -393,7 +393,7 @@ section {
 
 .home {
   padding-top: 14rem;
-  background: url(../image/home-bg.png) no-repeat;
+  background: url(../image/home-bg1.png) no-repeat;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -1283,7 +1283,8 @@ section {
   padding: 1.6rem;
   display: table;
   overflow: hidden;
-  background-color: #fff;
+
+  background-image: url("../image/background.png");
   border-radius: 1rem;
 }
 
